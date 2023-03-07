@@ -1,1 +1,1 @@
-# wstexam
+# wstprelim
